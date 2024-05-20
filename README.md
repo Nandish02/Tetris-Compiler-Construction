@@ -20,9 +20,10 @@ This repository contains the code for the course CS F363: Compiler Construction 
   <tr>
     <td><img src="https://github.com/Nandish02/Tetris-Compiler-Construction/assets/94218870/0c79ec57-a95d-41c1-8e88-07110dd7a1a1" alt="1stpage"></td>
     <td><img src="https://github.com/Nandish02/Tetris-Compiler-Construction/assets/94218870/2d097c89-28ad-4ec8-b6ad-2e27317dbe3e" alt="2ndpage"></td>
-    <td><img src="https://github.com/Nandish02/Tetris-Compiler-Construction/assets/94218870/d9493851-2887-4926-9848-995e82b74a05"></td>
   </tr>
 </table>
+
+![3rdpage](https://github.com/Nandish02/Tetris-Compiler-Construction/assets/94218870/d9493851-2887-4926-9848-995e82b74a05)
 
 ## Features of the tetris game implemented 
 
