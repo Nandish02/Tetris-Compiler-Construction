@@ -1,0 +1,33 @@
+Section1
+#
+Somename = 0
+#
+Someothername = 1
+#
+difficulty=2
+#
+fg_color=BLUE
+#
+bg_color=GRAY
+#
+speed_increase_factor=5
+#
+speed_decrease_factor=3
+#
+direction=1
+#
+shadow=4
+#
+next=1
+#
+Section2
+#
+{ Func2 Someothername=Someothername + Somename }
+#
+{ run Somename = [call move_piece with direction=1 ] }
+#
+{Func3 while( 2 + 9 ) while( 2 + 9 ) Someothername=6 end end}
+#
+Section3
+#
+[ play with fg=fg_color bg=bg_color ]
