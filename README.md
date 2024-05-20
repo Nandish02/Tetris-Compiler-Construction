@@ -2,11 +2,12 @@
 This repository contains the code for the course CS F363: Compiler Construction at BITS Pilani. The code is written in Python and the course is taught by [Dr Ramprasad Joshi](https://www.bits-pilani.ac.in/goa/ramprasad-savlaram-joshi/).
 
 ## Contents
-1. [gameEngine](gameEngine/): A simple game engine that can be used to create text-based games. (provided by the instructor)
-2. [parser](a2version2.y): A parser developed during the course.
-3. [scanner](extetrickscanner.l): A scanner developed during the course.
-4. [Makefile](Makefile): A makefile to build the project, test it on sample inputs.
-5. [README.md](README.md): This file.
+1. Extetricks: A domain-specific language for configuring and scripting a Tetris-like game.
+2. [gameEngine](gameEngine/): A simple game engine that can be used to create text-based games. (provided by the instructor)
+3. [parser](a2version2.y): A parser developed during the course, Uses Bison to define the grammar rules of Extetricks and generates a parser to create an abstract syntax tree.
+4. [scanner](extetrickscanner.l): A scanner developed during the course, Uses Flex to define the lexical analysis rules and generates a scanner that breaks down the input Extetricks code into tokens.
+5. [Makefile](Makefile): A makefile to build the project, test it on sample inputs.
+6. [README.md](README.md): This file.
 
 ## Usage
 1. Clone the repository.
